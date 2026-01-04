@@ -21,4 +21,4 @@ This is a beginner-friendly Python console game where the computer randomly sele
 
 ### 🔹 How to Run
 ```bash
-python guess_game.py
+python main.py
